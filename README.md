@@ -1,0 +1,2 @@
+# hust_multivariable_statistics_lab
+华科经院多元统计分析实验课作业
